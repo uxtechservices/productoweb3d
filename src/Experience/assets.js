@@ -75,32 +75,32 @@ export default [
       },
       {
         name: "stardusterNote",
-        source: "/assets/notes/starduster-note.ktx2",
+        source: "/assets/notes/starduster-notee.png",
         type: "texture",
       },
       {
         name: "qompNote",
-        source: "/assets/notes/qomp-note.ktx2",
+        source: "/assets/notes/qomp-note.png",
         type: "texture",
       },
       {
         name: "ghostlyFootstepsNote",
-        source: "/assets/notes/ghostlyFootsteps-note.ktx2",
+        source: "/assets/notes/ghostlyFootsteps-note.png",
         type: "texture",
       },
       {
         name: "cobayaUnchainedNote",
-        source: "/assets/notes/cobayaUnchained-note.ktx2",
+        source: "/assets/notes/cobayaUnchained-note.png",
         type: "texture",
       },
       {
         name: "breakInNote",
-        source: "/assets/notes/breakIn-note.ktx2",
+        source: "/assets/notes/breakIn-note.png",
         type: "texture",
       },
       {
         name: "portfolioNote",
-        source: "/assets/notes/portfolio-note.ktx2",
+        source: "/assets/notes/portfolio-note.png",
         type: "texture",
       },
       {
@@ -115,12 +115,12 @@ export default [
       },
       {
         name: "liveDemo",
-        source: "/assets/descriptionButtons/live-demo.ktx2",
+        source: "/assets/descriptionButtons/live-demo.png",
         type: "texture",
       },
       {
         name: "sourceCode",
-        source: "/assets/descriptionButtons/source-code.ktx2",
+        source: "/assets/descriptionButtons/source-code.png",
         type: "texture",
       },
       {

@@ -21,35 +21,35 @@ export default class Trophy {
     }
     switch (trophyID) {
       case "nextButton":
-        this.trophyText.innerText = "First step forward";
+        this.trophyText.innerText = "Primer paso adelante";
         this.trophyLogo.src = this.resources.items.nextTrophy.image.src;
         break;
       case "prevButton":
-        this.trophyText.innerText = "First step backward";
+        this.trophyText.innerText = "Primer paso atrás";
         this.trophyLogo.src = this.resources.items.prevTrophy.image.src;
         break;
       case "vase":
-        this.trophyText.innerText = "Rule breaker";
+        this.trophyText.innerText = "Rompe reglas";
         this.trophyLogo.src = this.resources.items.doNotTouchTrophy.image.src;
         break;
       case "door":
-        this.trophyText.innerText = "There is no escape";
+        this.trophyText.innerText = "No hay escape";
         this.trophyLogo.src = this.resources.items.doorTrophy.image.src;
         break;
       case "sourceCode":
-        this.trophyText.innerText = "Code investigator";
+        this.trophyText.innerText = "URL 2";
         this.trophyLogo.src = this.resources.items.sourceCodeTrophy.image.src;
         break;
       case "liveDemo":
-        this.trophyText.innerText = "Beta tester";
+        this.trophyText.innerText = "PRIMERA URL";
         this.trophyLogo.src = this.resources.items.liveDemoTrophy.image.src;
         break;
       case "canvas":
-        this.trophyText.innerText = "Canvas explorer";
+        this.trophyText.innerText = "Explorador de Canvas";
         this.trophyLogo.src = this.resources.items.canvasTrophy.image.src;
         break;
       case "Platinum":
-        this.trophyText.innerText = "Collector";
+        this.trophyText.innerText = "Coleccionista";
         this.trophyLogo.src = this.resources.items.platinumTrophy.image.src;
         break;
     }
