@@ -30,47 +30,47 @@ export default [
       },
       {
         name: "starduster",
-        source: "/assets/paintings/starduster.ktx2",
+        source: "/assets/paintings/starduster.jpg",
         type: "texture",
       },
       {
         name: "ghostlyFootsteps",
-        source: "/assets/paintings/ghostly-footsteps.ktx2",
+        source: "/assets/paintings/ghostly-footsteps.jpg",
         type: "texture",
       },
       {
         name: "apocalypseNow",
-        source: "/assets/paintings/apocalypse-now.ktx2",
+        source: "/assets/paintings/apocalypse-now.jpg",
         type: "texture",
       },
       {
         name: "tfg",
-        source: "/assets/paintings/tfg.ktx2",
+        source: "/assets/paintings/tfg.jpg",
         type: "texture",
       },
       {
         name: "saveTheCrew",
-        source: "/assets/paintings/save-the-crew.ktx2",
+        source: "/assets/paintings/save-the-crew.jpg",
         type: "texture",
       },
       {
         name: "breakIn",
-        source: "/assets/paintings/break-in.ktx2",
+        source: "/assets/paintings/break-in.jpg",
         type: "texture",
       },
       {
         name: "cobayaUnchained",
-        source: "/assets/paintings/cobayaunchained.ktx2",
+        source: "/assets/paintings/cobayaunchained.jpg",
         type: "texture",
       },
       {
         name: "qomp",
-        source: "/assets/paintings/qomp.ktx2",
+        source: "/assets/paintings/qomp.jpg",
         type: "texture",
       },
       {
         name: "portfolio",
-        source: "/assets/paintings/portfolio.ktx2",
+        source: "/assets/paintings/portfolio.jpg",
         type: "texture",
       },
       {
@@ -125,17 +125,17 @@ export default [
       },
       {
         name: "joanArtGallery",
-        source: "/assets/paintings/joan-art-gallery.ktx2",
+        source: "/assets/paintings/joan-art-gallery.jpg",
         type: "texture",
       },
       {
         name: "joanArcadeMachine",
-        source: "/assets/paintings/joan-arcade-machine.ktx2",
+        source: "/assets/paintings/joan-arcade-machine.jpg",
         type: "texture",
       },
       {
         name: "joanOS",
-        source: "/assets/paintings/joan-os.ktx2",
+        source: "/assets/paintings/joan-os.jpg",
         type: "texture",
       },
       {
